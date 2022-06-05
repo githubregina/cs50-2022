@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Within the reversed numbers it takes longest time, it takes n square time to sort all numbers.
+
+sort2 uses: Merge Sort
+
+How do you know?: When sorting the random numbers, this method takes shortest time.
+
+sort3 uses: Selection Sort
+
+How do you know?:Compared to the bubble sort, this method takes longer time on sorted numbers, cause it needs to go though n square times.
